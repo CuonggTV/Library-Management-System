@@ -7,9 +7,7 @@
 #include "Login Menu Function.c"
 #include "date.c"
 #define MAX 100007
-
-
-
+//Hellasldasd
 
 bool Register();
 bool Login_Cus(char username[]);
