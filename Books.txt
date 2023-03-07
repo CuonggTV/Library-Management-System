@@ -1,0 +1,3 @@
+pool, Jane, 0, 0, 0, 0, 0, 0, 0
+paol, Jake, 1, hello, 1, 4, 4, 25, 4
+ballo, oz, 0, 0, 0, 0, 0, 0, 0
